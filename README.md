@@ -10,3 +10,8 @@ Developer set-up the class name to code easily.
 - No need any node.js or other thing used CMD
 - Fast and quick
 - Friendly for chromebook user
+
+
+# Future Updates
+- Link support for avoid storage full
+- Discord server add
